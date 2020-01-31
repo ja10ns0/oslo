@@ -1,0 +1,4 @@
+{
+  "loadRender": "http://localhost/api/query/state/render/",
+  "resources": "http://localhost/resources/"
+}

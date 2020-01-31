@@ -1,0 +1,4 @@
+{
+  "loadRender": "http://vm64.netexlearning.cloud/api/query/state/render/",
+  "resources": "http://vm64.netexlearning.cloud/resources/"
+}

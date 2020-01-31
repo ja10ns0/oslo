@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 36 36" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" style="pointer-events:all">
+    <style>
+        @keyframes e0s5dw6hb6ggc4_to__to{
+            0%{
+                transform:translate(0,0)
+            }
+            to{
+                transform:translate(-2px,24px)
+            }
+        }
+        @keyframes e0s5dw6hb6ggc4_tr__tr{
+            0%{
+                transform:rotate(0deg)
+            }
+            to{
+                transform:rotate(-45deg)
+            }
+        }
+        @keyframes e0s5dw6hb6ggc5_to__to{
+            0%{
+                transform:translate(0,0)
+            }
+            to{
+                transform:translate(-10px,0)
+            }
+        }
+        @keyframes e0s5dw6hb6ggc5_c_o{
+            0%{
+                opacity:1
+            }
+            to{
+                opacity:0
+            }
+        }
+        @keyframes e0s5dw6hb6ggc6_to__to{
+            0%{
+                transform:translate(0,0)
+            }
+            to{
+                transform:translate(24px,-13px)
+            }
+        }
+        @keyframes e0s5dw6hb6ggc6_tr__tr{
+            0%{
+                transform:rotate(0deg)
+            }
+            to{
+                transform:rotate(45deg)
+            }
+        }
+
+        .toclose .animation1 {
+            animation: e0s5dw6hb6ggc4_to__to 200ms 1 normal forwards;
+        }
+        .toclose .animation2 {
+            animation: e0s5dw6hb6ggc4_tr__tr 200ms 1 normal forwards;
+        }
+        .toclose .animation3 {
+            animation: e0s5dw6hb6ggc5_to__to 200ms 1 normal forwards;
+        }
+        .toclose .animation4 {
+            animation: e0s5dw6hb6ggc5_c_o 200ms 1 normal forwards;
+        }
+        .toclose .animation5 {
+            animation: e0s5dw6hb6ggc6_to__to 200ms 1 normal forwards;
+        }
+        .toclose .animation6 {
+            animation: e0s5dw6hb6ggc6_tr__tr 200ms 1 normal forwards;
+        }
+
+        .toopen .animation1 {
+            animation: e0s5dw6hb6ggc4_to__to 200ms 1 reverse;
+        }
+        .toopen .animation2 {
+            animation: e0s5dw6hb6ggc4_tr__tr 200ms 1 reverse;
+        }
+        .toopen .animation3 {
+            animation: e0s5dw6hb6ggc5_to__to 200ms 1 reverse;
+        }
+        .toopen .animation4 {
+            animation: e0s5dw6hb6ggc5_c_o 200ms 1 reverse;
+        }
+        .toopen .animation5 {
+            animation: e0s5dw6hb6ggc6_to__to 200ms 1 reverse;
+        }
+        .toopen .animation6 {
+            animation: e0s5dw6hb6ggc6_tr__tr 200ms 1 reverse;
+        }
+    </style>
+    <g>
+    <g transform="translate(0,0)" class="animation1">
+        <g transform="rotate(0)" class="animation2">
+            <line x1="8" y1="10" x2="28" y2="10" transform="translate(0,0)" fill="none" stroke="rgb(255,255,255)" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10"/>
+        </g>
+    </g>
+    <g transform="translate(0,0)" class="animation3">
+        <line x1="8" y1="18" x2="28" y2="18" transform="translate(0,0)" fill="none" stroke="rgb(255,255,255)" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" class="animation4"/>
+    </g>
+    <g transform="translate(0,0)" class="animation5">
+        <g transform="rotate(0)" class="animation6">
+            <line x1="8" y1="27" x2="28" y2="27" transform="translate(0,0)" fill="none" stroke="rgb(255,255,255)" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10"/>
+        </g>
+    </g>    
+    </g>
+</svg>

@@ -1,0 +1,72 @@
+@font-face {
+  font-family: 'LatoWeb';
+  src: url('./fonts/Lato-Regular.woff2') format('woff2'),
+       url('./fonts/Lato-Regular.woff') format('woff');
+  font-style: normal;
+  font-weight: 400;
+  text-rendering: optimizeLegibility;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'LatoWeb';
+  src: url('./fonts/Lato-Italic.woff2') format('woff2'),
+       url('./fonts/Lato-Italic.woff') format('woff');
+  font-style: italic;
+  font-weight: 400;
+  text-rendering: optimizeLegibility;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'LatoWeb';
+  src: url('./fonts/Lato-Medium.woff2') format('woff2'),
+       url('./fonts/Lato-Medium.woff') format('woff');
+  font-style: normal;
+  font-weight: 500;
+  text-rendering: optimizeLegibility;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'LatoWeb';
+  src: url('./fonts/Lato-MediumItalic.woff2') format('woff2'),
+       url('./fonts/Lato-MediumItalic.woff') format('woff');
+  font-style: italic;
+  font-weight: 500;
+  text-rendering: optimizeLegibility;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'LatoWeb';
+  src: url('./fonts/Lato-Semibold.woff2') format('woff2'),
+       url('./fonts/Lato-Semibold.woff') format('woff');
+  font-style: normal;
+  font-weight: 600;
+  text-rendering: optimizeLegibility;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'LatoWeb';
+  src: url('./fonts/Lato-SemiboldItalic.woff2') format('woff2'),
+       url('./fonts/Lato-SemiboldItalic.woff') format('woff');
+  font-style: italic;
+  font-weight: 600;
+  text-rendering: optimizeLegibility;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'LatoWeb';
+  src: url('./fonts/Lato-Bold.woff2') format('woff2'),
+       url('./fonts/Lato-Bold.woff') format('woff');
+  font-style: normal;
+  font-weight: 700;
+  text-rendering: optimizeLegibility;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'LatoWeb';
+  src: url('./fonts/Lato-BoldItalic.woff2') format('woff2'),
+       url('./fonts/Lato-BoldItalic.woff') format('woff');
+  font-style: italic;
+  font-weight: 700;
+  text-rendering: optimizeLegibility;
+  font-display: swap;
+}
